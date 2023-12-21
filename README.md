@@ -1,7 +1,7 @@
 # Why I made this
 Yea, this modpack is just really for my friends cause they too lazy to download 91 mods (I would say the same thing).
 ## Description
-90 mods that are pretty useful ngl. Will add more if I want.
+93 mods that are pretty useful ngl. Will add more if I want.
 ### Mods in the modpack
 
     "2018-LC_API-2.2.0",
