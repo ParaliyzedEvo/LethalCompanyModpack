@@ -1,7 +1,7 @@
 {
   "name": "Best_Modpack_fs",
   "version_number": "1.0.0",
-  "website_url": "https://linktr.ee/paraliyzed_evo",
+  "website_url": "https://github.com/ParaliyzedEvo/LethalCompanyModpack/",
   "description": "Yea, this modpack is just really for my friends cause they too lazy to download 91 mods (I would say the same thing).",
   "dependencies": [
     "2018-LC_API-2.2.0",
