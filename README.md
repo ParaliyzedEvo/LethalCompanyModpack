@@ -3,7 +3,6 @@ Yea, this modpack is just really for my friends cause they too lazy to download 
 ## Description
 93 mods that are pretty useful ngl. Will add more if I want.
 ### Mods in the modpack
-
     "2018-LC_API-2.2.0",
     "BepInEx-BepInExPack-5.4.2100",
     "notnotnotswipez-MoreCompany-1.7.2",
@@ -20,9 +19,10 @@ Yea, this modpack is just really for my friends cause they too lazy to download 
     "FlipMods-LetMeLookDown-1.0.1",
     "NotAtomicBomb-TerminalApi-1.4.0",
     "vasanex-ItemQuickSwitch-1.1.0",
-    "FlipMods-BetterStamina-1.2.2",
+    "FlipMods-BetterStamina-1.3.0",
     "2018-Brutal_Company-1.2.4",
     "Rozebud-FOV_Adjust-1.1.1",
+    "Tyzeron-Minimap-1.0.5",
     "Mom_Llama-Lethal_Company_Enhancer-0.1.8",
     "FlipMods-MoreBlood-1.0.2",
     "RickArg-Helmet_Cameras-2.1.5",
@@ -53,7 +53,6 @@ Yea, this modpack is just really for my friends cause they too lazy to download 
     "anormaltwig-TerminalExtras-1.0.1",
     "SirTyler-BetterTeleporter-1.2.1",
     "EladNLG-EladsHUD-1.1.0",
-    "Stoneman-LethalProgression-1.3.2",
     "EliteMasterEric-WackyCosmetics-1.1.0",
     "HolographicWings-LethalExpansion-1.2.16",
     "Radsi2-Shotgun-1.0.0",
@@ -75,7 +74,6 @@ Yea, this modpack is just really for my friends cause they too lazy to download 
     "PanHouse-LethalClunk-1.1.1",
     "TeamClark-CombineEliteSuit-1.0.2",
     "Renegades-WalkieUse-1.3.1",
-    "Exoni-LethalRebinding-1.0.0",
     "FlipMods-ReservedItemSlotCore-1.4.4",
     "FlipMods-ReservedFlashlightSlot-1.4.5",
     "FlipMods-ReservedWalkieSlot-1.4.6",
@@ -93,4 +91,9 @@ Yea, this modpack is just really for my friends cause they too lazy to download 
     "Clementinise-CustomSounds-2.1.2",
     "HoffmanTV-angry_british_bug-1.3.0",
     "TeamClark-BigBossSuit-1.0.1",
-    "Backrooms-Backrooms-0.0.6"
+    "Backrooms-Backrooms-0.0.6",
+    "Stoneman-LethalProgression-1.3.2",
+    "NutNutty-AlwaysPickup-1.0.0",
+    "boring-InfiniteShotgunAmmo-1.0.3",
+    "itsmeowdev-DoorFix-1.0.0",
+    "atg-FreeJester-1.0.3"
