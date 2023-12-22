@@ -1,3 +1,5 @@
+# 1.0.4
+More mods and more suits because my ass was bored. I also replaced the freddy bracken with goku bracken. Changed some controls too.
 # 1.0.3
 Another update already? Yup, I added more suits.
 # 1.0.2
