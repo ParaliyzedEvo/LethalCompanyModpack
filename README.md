@@ -1,6 +1,6 @@
 # Description
 
-113 mods that are pretty useful ngl. Will add more if I want
+121 mods that are pretty useful ngl. Will add more if I want
 
 ## Mods in the modpack
 
