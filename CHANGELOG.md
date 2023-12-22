@@ -1,3 +1,5 @@
+# 1.0.3
+Another update already? Yup, I added more suits.
 # 1.0.2
 Yup, you guessed it. More mods :). I also changed some keybinds in the config so if you're not sure which keybinds are which you can either ask me on the github page or look in the configs yourself.
 # 1.0.1
