@@ -1,9 +1,9 @@
-{
-  "name": "Pick_Up_the_Sheriff_for_Me_Baby",
-  "version_number": "1.0.2",
-  "website_url": "https://github.com/ParaliyzedEvo/LethalCompanyModpack/",
-  "description": "Yea, this modpack is just really for my friends cause they too lazy to download 113 mods (I would say the same thing).",
-  "dependencies": [
+# Description
+
+121 mods that are pretty useful ngl. Will add more if I want
+
+## Mods in the modpack
+
     "atg-FreeJester-1.0.3",
     "itsmeowdev-DoorFix-1.0.0",
     "boring-InfiniteShotgunAmmo-1.0.3",
@@ -116,5 +116,3 @@
     "NiceHairs-Symbiosis-1.0.2",
     "FutureSavior-Boombox_Sync_Fix-1.1.2",
     "ViViKo-BreakingBadHazmatSuit-1.0.3"
-  ]
-}
