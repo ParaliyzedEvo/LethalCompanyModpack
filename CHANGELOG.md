@@ -1,3 +1,5 @@
+# 1.0.6
+More useful mods and more cosmetics
 # 1.0.5
 Added more useful and funny mods. Also added more suits. Removed 2 mods that caused some issues with other mods. That's all.
 # 1.0.4
